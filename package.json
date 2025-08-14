@@ -1,0 +1,24 @@
+{
+  "name": "ai_persona",
+  "version": "1.0.0",
+  "description": "AI personality that mimics my masters of GenAI. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test persona"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyarajgurjar/MasterJI-AI-Persona.git"
+  },
+  "keywords": [
+    "AI",
+    "Persona",
+    "Maker"
+  ],
+  "author": "Divya Raj Singh",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/divyarajgurjar/MasterJI-AI-Persona/issues"
+  },
+  "homepage": "https://github.com/divyarajgurjar/MasterJI-AI-Persona#readme"
+}
